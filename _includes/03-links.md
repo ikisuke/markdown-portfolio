@@ -1,1 +1,1 @@
-[mygithub]  https://github.com/ikisuke
+[mygithub](https://github.com/ikisuke)
